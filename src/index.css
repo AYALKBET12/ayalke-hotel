@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&family=Inter:wght@400;600&display=swap');
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.6;
+  color: #1b2623;
+  background: #f6f8f7;
+}
+#root { max-width: none; margin: 0; padding: 0; text-align: left; }
